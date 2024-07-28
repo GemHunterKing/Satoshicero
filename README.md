@@ -1,1 +1,1 @@
-# Satoshicero
+# Satoshizero
