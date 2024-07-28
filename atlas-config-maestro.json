@@ -1,0 +1,16 @@
+{
+  "coreProvider": {
+    "maestroToken": "<<MAESTRO_TOKEN>>",
+    "turboSubmit": false
+  },
+  "networkId": "<<CARDANO_NETWORK>>",
+  "logging": [
+    {
+      "type": {
+        "tag": "stderr"
+      },
+      "severity": "Debug",
+      "verbosity": "V2"
+    }
+  ]
+}
